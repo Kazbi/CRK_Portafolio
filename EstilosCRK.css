@@ -29,12 +29,7 @@ nav {
 .navbar-brand {
   margin-left: 80px; 
 }
-    /* Responsive adjustments */
-    @media (max-width: 767px){
-      .hero { padding: 2.2rem 0 3rem; background-position: 35% center; }
-      .pavlova-container { height:160px; }
-      .parallax-item { height:120px; }
-    }
+
 ----------
 
 .pavlova-container {
